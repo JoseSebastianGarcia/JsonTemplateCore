@@ -8,14 +8,19 @@
     <Title>JsonTemplateCore</Title>
     <Authors>Jose Sebastián Garcia</Authors>
     <Company>Jose Sebastián Garcia</Company>
-    <Description>
-		Lightweight and fast JSON-based templating engine for .NET.
-        Supports nested properties, arrays, and flexible template syntax.
-    </Description>
+    <Description>Lightweight and fast JSON-based templating engine for .NET.
+Supports nested properties, arrays, and flexible template syntax.
+#Category.SubCategory.Property
+#Category.SubCategory[1].Property</Description>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <AssemblyVersion>1.0.1</AssemblyVersion>
-    <FileVersion>1.0.1</FileVersion>
-    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.2</AssemblyVersion>
+    <FileVersion>1.0.2</FileVersion>
+    <Version>1.0.2</Version>
+    <Product>JsonTemplateCore</Product>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>json; template; templating; json-template; engine; json-templating; render; interpolation; jsonpath; json-query; dynamic; json-processing; string-template; string-format; stringformat; string-composition; text-rendering; smartformat; smart-format; dotnet; netstandard; netcore; netframework; csharp; c-sharp; lightweight</PackageTags>
+    <RepositoryUrl>https://github.com/JoseSebastianGarcia/JsonTemplateCore</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/JoseSebastianGarcia/JsonTemplateCore</PackageProjectUrl>
   </PropertyGroup>
     
 </Project>
