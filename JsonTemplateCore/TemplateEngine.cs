@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace JsonParsing;
+namespace JsonTemplateCore;
 
 public class TemplateEngine
 {

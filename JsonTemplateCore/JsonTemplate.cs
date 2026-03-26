@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace JsonParsing;
+namespace JsonTemplateCore;
 
 public class JsonTemplate
 {
