@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JsonTemplateCore.Demo/JsonTemplateCore.Demo.csproj" />
+  <Project Path="JsonTemplateCore/JsonTemplateCore.csproj" />
+</Solution>
