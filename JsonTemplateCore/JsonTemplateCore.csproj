@@ -12,6 +12,7 @@
 		Lightweight and fast JSON-based templating engine for .NET.
         Supports nested properties, arrays, and flexible template syntax.
     </Description>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
     
 </Project>
